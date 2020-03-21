@@ -1,4 +1,4 @@
 # TenMatch
 自定义倒计时进度器
 
-![image](https://github.com/matchDemo.gif)
+![image](https://github.com/matchDemo/MatchProessView/matchPic.gif)
