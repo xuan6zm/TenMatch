@@ -96,7 +96,6 @@
 }
 
 #pragma mark -删除定时器
-
 -(void)removeNSTimer{
     [_timer invalidate];
     _timer =nil;
